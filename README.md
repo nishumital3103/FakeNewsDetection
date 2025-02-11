@@ -5,13 +5,19 @@ This project implements a Fake News Detection System using machine learning. The
 
 ## Features
 Data Preprocessing: Cleans and processes news text, including tokenization, stemming, and stop-word removal.
+
 Feature Extraction: Converts textual data into numerical formats using techniques like TF-IDF or Count Vectorization.
+
 Machine Learning Models: Trains and evaluates models such as Logistic Regression, Naive Bayes, or Random Forest for classification.
+
 Evaluation Metrics: Uses accuracy, precision, recall, and F1-score to assess model performance.
+
 Prediction API: Provides a script or interface to classify new news articles.
-Technologies Used
+# Technologies Used
 Programming Language: Python
-Libraries:
+
 Data Processing: pandas, numpy
+
 NLP: nltk, scikit-learn
+
 Visualization: matplotlib, seaborn
